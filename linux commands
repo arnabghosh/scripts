@@ -1,0 +1,3 @@
+Open firewall for port:
+firewall-cmd --permanent --add-port=18630/tcp
+firewall-cmd --reload
